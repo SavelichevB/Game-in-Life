@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\GameHeith\GameHeith\bin\Debug\GameHeith.exe.config
+C:\Users\Admin\Desktop\GameHeith\GameHeith\bin\Debug\GameHeith.exe
+C:\Users\Admin\Desktop\GameHeith\GameHeith\bin\Debug\GameHeith.pdb
+C:\Users\Admin\Desktop\GameHeith\GameHeith\obj\Debug\GameHeith.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GameHeith\GameHeith\obj\Debug\GameHeith.Form1.resources
+C:\Users\Admin\Desktop\GameHeith\GameHeith\obj\Debug\GameHeith.Properties.Resources.resources
+C:\Users\Admin\Desktop\GameHeith\GameHeith\obj\Debug\GameHeith.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\GameHeith\GameHeith\obj\Debug\GameHeith.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GameHeith\GameHeith\obj\Debug\GameHeith.exe
+C:\Users\Admin\Desktop\GameHeith\GameHeith\obj\Debug\GameHeith.pdb
